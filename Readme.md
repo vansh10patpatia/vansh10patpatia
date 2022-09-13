@@ -14,7 +14,7 @@ alt="vansh10patpatia" /> </p>
 
 - 🔭 I’m currently working on **Web and App Projects**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps,Web3**
 
 - 👨‍💻 Know more about me at 
 [vanshpatpatia.vercel.app](https://vanshpatpatia.vercel.app/)
